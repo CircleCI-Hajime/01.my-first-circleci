@@ -1,5 +1,5 @@
 # my-first-circleci
-![mfunaki](https://circleci.com/gh/mfunaki/my-first-circleci.svg?style=svg)
+![mfunaki](https://circleci.com/gh/mfunaki/my-first-circleci.svg?style=svg) ← NO BUILDSで正しいです(main)
 
 [【チュートリアル】01 CircleCIをはじめよう！](https://youtu.be/cOHKRYgdzDY)で使用しているリポジトリです。
 
