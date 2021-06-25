@@ -1,5 +1,5 @@
 # my-first-circleci
-![mfunaki](https://circleci.com/gh/mfunaki/my-first-circleci.svg?style=svg) ← Failedで正しいです(main)
+![CircleCI-Hajime](https://circleci.com/gh/CircleCI-Hajime/01.my-first-circleci.svg?style=svg) ← Failedで正しいです(main)
 
 [【チュートリアル】01 CircleCIをはじめよう！](https://youtu.be/cOHKRYgdzDY)で使用しているリポジトリです。
 
